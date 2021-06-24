@@ -4,7 +4,6 @@ public class Carrera extends Vehiculo implements Especificaciones{
 
     public Carrera(int Pasajero,int Velocidad){
         super(Pasajero, Velocidad);
-        this.TipoCombustible();
     }
 
    
